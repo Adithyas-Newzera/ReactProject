@@ -10,8 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@apollo/client": "^3.1.4",
-    "@apollo/react-hooks": "^3.1.5",
+    "@apollo/client": "^3.3.6",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/toolbar-android": "0.1.0-rc.2",
     "@react-navigation/native": "^5.8.10",

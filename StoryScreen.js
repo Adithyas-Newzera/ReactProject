@@ -1,6 +1,10 @@
 import React, {useEffect, useRef, useState} from 'react';
 import {Animated, Image, StyleSheet, Text, View} from 'react-native';
 import styles from './styles';
+const story = {
+  uri:
+    'https://images.thequint.com/thequint/2020-12/e5c00150-5b50-46b2-80a4-e892ddbe351b/Epkwv0UWMAICMGq.jpg',
+};
 
 function useInterval(callback, delay) {
   const savedCallback = useRef();
